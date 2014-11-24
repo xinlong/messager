@@ -1,4 +1,4 @@
 messager
 ========
 
-message sms,email eg. receviver and publisher
+message sms,email eg. receiver and publisher
